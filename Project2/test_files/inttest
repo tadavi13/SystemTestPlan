@@ -1,0 +1,9 @@
+! TestPlan
+# Test1,Requirements
+* Do this
+* Get this
+- FAIL: failed
+# Test2,Boundary
+* Test this value
+* Get value
+- PASS: passed
